@@ -35,17 +35,6 @@ An enterprise chatbot cannot send an entire data warehouse or thousands of pages
 
 Instead, it retrieves only the relevant information and sends those tokens to the model to generate an accurate response.
 
----
-
-# My Biggest Insight
-
-(Write this in your own words.)
-
----
-
-# Questions I Still Have
-
-(Add your questions here.)
 
 ---
 
