@@ -40,6 +40,15 @@ Instead, it retrieves only the relevant information and sends those tokens to th
 
 Today I learned that AI models do not read information the way humans do. They process small pieces of text called tokens, and every conversation is limited by a context window. This explains why AI engineers need techniques like Retrieval-Augmented Generation (RAG) when building enterprise applications.
 
+
+## Example
+
+Imagine an AI assistant for a data engineering team.
+
+Instead of sending the entire enterprise data warehouse to the AI model, the application retrieves only the relevant SQL scripts, ETL jobs, and documentation needed to answer the user's question.
+
+This approach reduces token usage, lowers cost, and improves response quality.
+
 # Context
 
 
