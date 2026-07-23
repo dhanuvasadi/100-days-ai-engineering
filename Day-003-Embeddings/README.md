@@ -31,6 +31,7 @@ Instead of searching for exact words, AI finds documentation with similar meanin
 Embeddings help AI understand the meaning behind text. This allows enterprise AI applications to search documentation, SQL scripts, and ETL jobs more intelligently than traditional keyword searches.
 
 ---
+
 # embedding
 
 An embedding is a numerical representation of the meaning of data that allows AI to find semantically similar information instead of relying on exact keyword matches.
