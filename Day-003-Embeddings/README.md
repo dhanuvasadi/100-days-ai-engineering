@@ -19,9 +19,7 @@ Understand how AI represents the meaning of text using embeddings and why this i
 # Enterprise Example
 
 Imagine an engineer asks:
-
 "Explain the Customer Billing ETL."
-
 Instead of searching for exact words, AI finds documentation with similar meaning using embeddings.
 
 ---
@@ -35,4 +33,4 @@ Embeddings help AI understand the meaning behind text. This allows enterprise AI
 # embedding
 
 An embedding is a numerical representation of the meaning of data that allows AI to find semantically similar information instead of relying on exact keyword matches.
-# Today's Reflection
+
