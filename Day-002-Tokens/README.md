@@ -37,7 +37,8 @@ Instead, it retrieves only the relevant information and sends those tokens to th
 
 
 ---
-
+# embedding
+An embedding is a numerical representation of the meaning of data that allows AI to find semantically similar information instead of relying on exact keyword matches.
 # Today's Reflection
 
 Today I learned that AI models do not read information the way humans do. They process small pieces of text called tokens, and every conversation is limited by a context window. This explains why AI engineers need techniques like Retrieval-Augmented Generation (RAG) when building enterprise applications.
