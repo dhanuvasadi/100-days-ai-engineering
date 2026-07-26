@@ -119,10 +119,6 @@ Prompt Builder
 
 ↓
 
-LLM API
-
-↓
-
 LLM
 
 ↓
