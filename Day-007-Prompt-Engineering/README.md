@@ -80,7 +80,7 @@ Final Answer
 
 There are actually two different embedding operations:
 
-During ingestion (one time)
+# During ingestion (one time)
 
 Document
 
@@ -96,7 +96,7 @@ Embedding
 
 Vector Database
 
-During a user query (every question)
+# During a user query (every question)
 
 
 User Question
