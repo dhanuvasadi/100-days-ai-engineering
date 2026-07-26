@@ -109,3 +109,23 @@ Embedding
 
 Vector Search
 
+↓
+
+Relevant Chunks
+
+↓
+
+Prompt Builder
+
+↓
+
+LLM API
+
+↓
+
+LLM
+
+↓
+
+Answer
+
